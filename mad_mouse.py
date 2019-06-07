@@ -1,5 +1,4 @@
 from pynput.mouse import Controller, Button
-from time import sleep
 from random import randint as al
 
 raton = Controller()
